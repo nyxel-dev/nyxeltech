@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nyxeltech
-- 👀 I’m interested in 3D printing & modeling, web development & design, and mechanical keyboards.
-- 🌱 I’m currently learning Fusion 360, Cura, and React/NextJS/PWA tech stacks
+- 👀 I’m interested in Ecommerce web development
+- 🌱 I’m currently learning React, NextJS, and PWAs
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: nyxel@pm.me
 
